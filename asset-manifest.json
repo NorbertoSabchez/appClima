@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/appClima/static/css/main.40c1baf4.css",
+    "main.js": "/appClima/static/js/main.8cf3054f.js",
+    "static/js/787.b4209e42.chunk.js": "/appClima/static/js/787.b4209e42.chunk.js",
+    "static/media/sunny-bright-day-hd-wallpaper-preview.jpg": "/appClima/static/media/sunny-bright-day-hd-wallpaper-preview.d99c13b96d2e90ea9ec5.jpg",
+    "static/media/sky-clouds-nature-weather.jpg": "/appClima/static/media/sky-clouds-nature-weather.13a9eaa0f697600e0a66.jpg",
+    "index.html": "/appClima/index.html",
+    "main.40c1baf4.css.map": "/appClima/static/css/main.40c1baf4.css.map",
+    "main.8cf3054f.js.map": "/appClima/static/js/main.8cf3054f.js.map",
+    "787.b4209e42.chunk.js.map": "/appClima/static/js/787.b4209e42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c1baf4.css",
+    "static/js/main.8cf3054f.js"
+  ]
+}
